@@ -12,6 +12,7 @@ version = "0.0.1-SNAPSHOT"
 java.sourceCompatibility = JavaVersion.VERSION_1_8
 
 repositories {
+	jcenter()
 	mavenCentral()
 	maven { url = uri("https://repo.spring.io/milestone") }
 	maven { url = uri("https://repo.spring.io/snapshot") }
@@ -21,6 +22,8 @@ dependencies {
 	implementation("org.springframework.boot:spring-boot-starter")
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
+	implementation("com.graphql-java-kickstart:graphql-spring-boot-starter:8.0.0")
+	runtimeOnly("com.graphql-java-kickstart:graphiql-spring-boot-starter:8.0.0")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 }
 
