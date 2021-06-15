@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class SpringBootGraphqlKotlinApplication
 
 fun main(args: Array<String>) {
-	runApplication<SpringBootGraphqlKotlinApplication>(*args)
+  runApplication<SpringBootGraphqlKotlinApplication>(*args)
 }
