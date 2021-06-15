@@ -1,0 +1,1 @@
+INSERT INTO graphql_kotlin.hero(name, description) VALUES ('Batman', 'Batman es un superhéroe de cómic co-creado por el artista Bob Kane y el escritor Bill Finger y publicado por DC Comics.');
