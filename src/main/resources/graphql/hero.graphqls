@@ -1,0 +1,18 @@
+schema {
+  query: HeroQuery
+  mutation: HeroMutation
+}
+
+type Hero {
+  id: ID!
+  name: String!
+  description: String!
+}
+
+type HeroQuery {
+  heroById(id: ID!): Hero
+}
+
+type HeroMutation {
+  saveHero(name: String!, description: String!): Hero
+}
