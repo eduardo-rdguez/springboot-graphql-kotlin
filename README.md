@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/github/license/eduardo-rdguez/springboot-graphql-kotlin)](./LICENSE)
 [![Twitter: \_eduardguez](https://img.shields.io/twitter/follow/_eduardguez.svg?style=social)](https://twitter.com/_eduardguez)
 
-> This project has been developed with Spring Boot, Spring Data JPA, Gradle, Kotlin, Liquidbase and PostgreSQL to demonstrate how to build a simple GraphQL API server.
+> This project has been developed with Spring Boot, Spring Data JPA, Gradle, Kotlin, Liquibase and PostgreSQL to demonstrate how to build a simple GraphQL API server.
 ## Tech Specs 🔖
 
 - Java `8`
@@ -12,7 +12,7 @@
 - Spring Boot `2.5.0`
 - Spring Data JPA `1.5.10`
 - Kotlin `1.5.10`
-- Liquidbase `4.4.0`
+- Liquibase `4.4.0`
 - PostgreSQL `42.2.0`
 
 ## Database
