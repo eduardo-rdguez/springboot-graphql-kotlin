@@ -1,7 +1,7 @@
 # Welcome to springboot-graphql-kotlin 🚀
 ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/kefranabg/readme-md-generator#readme)
-[![License: MIT](https://img.shields.io/github/license/eduardo-rdguez/springboot-graphql-kotlin?label=license&logo=MIT)](https://github.com/eduardo-rdguez/springboot-graphql-kotlin/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/github/license/eduardo-rdguez/springboot-graphql-kotlin)](./LICENSE)
 [![Twitter: \_eduardguez](https://img.shields.io/twitter/follow/_eduardguez.svg?style=social)](https://twitter.com/_eduardguez)
 
 > This project has been developed with Spring Boot, Spring Data JPA, Gradle, Kotlin, Liquidbase and PostgreSQL to demonstrate how to build a simple GraphQL API server.
@@ -78,4 +78,4 @@ gradle clean
 
 Copyright © 2021 [Eduardo Rodríguez](https://github.com/eduardo-rdguez).
 
-This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/eduardo-rdguez/springboot-graphql-kotlin/blob/main/LICENSE) licensed.
