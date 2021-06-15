@@ -5,7 +5,7 @@ graphql:
     corsEnabled: true
     cors:
       allowed-methods: GET, HEAD, POST
-    async-mode-enabled: true 
+    async-mode-enabled: true
 
 graphiql:
   mapping: /graphiql
