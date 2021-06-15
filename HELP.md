@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.eduardguez.spring-boot-graphql-kotlin' is invalid and this project uses 'com.eduardguez.springbootgraphqlkotlin' instead.
+* The original package name 'com.eduardo.rdguez.spring-boot-graphql-kotlin' is invalid and this project uses 'com.eduardo.rdguez' instead.
 
 # Getting Started
 

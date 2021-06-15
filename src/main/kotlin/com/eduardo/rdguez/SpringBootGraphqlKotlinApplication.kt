@@ -1,4 +1,4 @@
-package com.eduardguez.springbootgraphqlkotlin
+package com.eduardo.rdguez
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

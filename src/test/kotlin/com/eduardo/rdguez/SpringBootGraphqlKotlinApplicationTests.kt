@@ -1,4 +1,4 @@
-package com.eduardguez.springbootgraphqlkotlin
+package com.eduardo.rdguez
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
