@@ -24,6 +24,7 @@ dependencies {
 	implementation("org.springframework.boot:spring-boot-starter")
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
+	implementation("org.postgresql:postgresql:42.2.0")
 	implementation("com.graphql-java-kickstart:graphql-spring-boot-starter:11.1.0")
 	runtimeOnly("com.graphql-java-kickstart:graphiql-spring-boot-starter:11.1.0")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
