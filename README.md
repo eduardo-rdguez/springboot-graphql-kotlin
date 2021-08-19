@@ -1,11 +1,12 @@
 # Welcome to springboot-graphql-kotlin 🚀
-![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
+![Version](https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/kefranabg/readme-md-generator#readme)
 [![License: MIT](https://img.shields.io/github/license/eduardo-rdguez/springboot-graphql-kotlin)](./LICENSE)
 [![Twitter: \_eduardguez](https://img.shields.io/twitter/follow/_eduardguez.svg?style=social)](https://twitter.com/_eduardguez)
 
-> This project has been developed with Spring Boot, Spring Data JPA, Gradle, Kotlin, Liquibase and PostgreSQL to demonstrate how to build a simple GraphQL API server.
-## Tech Specs 🔖
+> This project has been developed to demonstrate how to build a simple GraphQL API server with Spring Boot, Spring Data JPA, Gradle, Kotlin, Liquibase and PostgreSQL.
+
+## Tech specs 🔖
 
 - Java `8`
 - Gradle `7.0.2`
@@ -30,7 +31,7 @@ CREATE SCHEMA IF NOT EXISTS graphql_kotlin;
 ```
 
 ## Run
-### Environment Variable
+### Environment variable
 
 Activate `dev` profile using environment variable:
 
@@ -67,6 +68,10 @@ Deletes the build directory:
 ```sh
 gradle clean
 ```
+
+## Learn more
+
+* GraphQL: https://graphql.org/learn/
 
 ## Author
 
